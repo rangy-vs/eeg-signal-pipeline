@@ -1,6 +1,6 @@
 # EEG Signal Pipeline
 
-![ci](../../actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/rangy-vs/eeg-signal-pipeline/actions/workflows/ci.yml/badge.svg)
 
 A tested EEG preprocessing → feature → classification pipeline, run on **synthetic** data so every stage has known ground truth. It does not use or claim any real recordings.
 
